@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Strider-CD/strider.git"
+    "url": "git://github.com/sellpoint/strider.git"
   },
   "browser": {
     "bootstrap": "./vendor/bootstrap/js/bootstrap.js",
@@ -113,9 +113,9 @@
     "strider-email-notifier": "^1.0.0",
     "strider-env": "^0.5.1",
     "strider-extension-loader": "^0.4.5",
-    "strider-git": "^1.0.0",
-    "strider-github": "^2.3.0",
     "strider-github-status": "^2.0.0",
+    "strider-git": "git://github.com/sellpoint/strider-git.git",
+    "strider-github": "git://github.com/sellpoint/strider-github.git",
     "strider-gitlab": "^1.2.3",
     "strider-heroku": "^0.1.1",
     "strider-mailer": "^0.2.0",
